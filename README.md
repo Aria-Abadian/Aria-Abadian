@@ -12,6 +12,7 @@ I design and build **fullstack systems** — from frontend architecture to backe
 Most of my work revolves around **SaaS-style products, internal tools, and scalable web platforms**.
 
 I also provide clients with a **Notion-based project dashboard**, so they can track:
+
 - progress in real time
 - feature delivery stages
 - design + development updates
@@ -31,7 +32,7 @@ I also provide clients with a **Notion-based project dashboard**, so they can tr
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-### ⚛️ Frontend Systems
+<h3> ⚛️ Frontend Systems</h3>
 
 <p align="center">
 
@@ -48,7 +49,7 @@ I also provide clients with a **Notion-based project dashboard**, so they can tr
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-### 🔧 Backend Systems
+<h3> 🔧 Backend Systems</h3>
 
 <p align="center">
 
@@ -65,7 +66,7 @@ I also provide clients with a **Notion-based project dashboard**, so they can tr
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-### 🧪 DevOps & Quality
+<h3> 🧪 DevOps & Quality</h3>
 
 <p align="center">
 
