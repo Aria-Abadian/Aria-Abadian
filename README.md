@@ -10,7 +10,7 @@
 
 <td width="60%" valign="top" style="border: none; padding: 10px;">
 
-<h3 align="center">🧠 What I Do</h3>
+<h2>🧠 What I Do</h3>
 
 I design and build **fullstack systems** — from frontend architecture to backend APIs and client-facing dashboards.
 
