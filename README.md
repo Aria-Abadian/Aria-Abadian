@@ -5,7 +5,12 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-<h2 align="center">🧠 What I Do</h2>
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+
+<td width="60%" valign="top" style="border: none; padding: 10px;">
+
+<h3 align="center">🧠 What I Do</h3>
 
 I design and build **fullstack systems** — from frontend architecture to backend APIs and client-facing dashboards.
 
@@ -13,10 +18,25 @@ Most of my work revolves around **SaaS-style products, internal tools, and scala
 
 I also provide clients with a **Notion-based project dashboard**, so they can track:
 
-- progress in real time
-- feature delivery stages
-- design + development updates
-- roadmap visibility without technical noise
+- progress in real time  
+- feature delivery stages  
+- design + development updates  
+- roadmap visibility without technical noise  
+
+</td>
+
+<td width="40%" align="center" valign="middle" style="border: none; padding: 10px;">
+
+<img 
+  src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" 
+  width="100%"
+  style="display:block; border: none; outline: none;"
+/>
+
+</td>
+
+</tr>
+</table>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
@@ -30,7 +50,7 @@ I also provide clients with a **Notion-based project dashboard**, so they can tr
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="2px">
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h3 align="center">🚀 Tech Stack</h3>
 
 <h3> ⚛️ Frontend Systems</h3>
 
@@ -78,7 +98,16 @@ I also provide clients with a **Notion-based project dashboard**, so they can tr
 
 </p>
 
-<h2 align="center">📫 Contact</h2>
+<h3 align="center">📫 Contact</h3>
 
-- GitHub: [https://github.com/Aria-Abadian](Aria-Abadian)
-- LinkedIn: [Aria-Abadian](https://www.linkedin.com/in/aria-abadian/)
+<p align="center">
+
+<a href="https://github.com/Aria-Abadian">
+  <img src="https://img.shields.io/badge/View_GitHub_Profile-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</a>
+
+<a href="https://www.linkedin.com/in/aria-abadian/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+</a>
+
+</p>
